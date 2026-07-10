@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+openai-whisper
+requests
+certifi
+
+transformers>=4.41.0
+accelerate
+sentencepiece
+soundfile
+librosa
